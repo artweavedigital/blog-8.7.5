@@ -1,4 +1,4 @@
-# Blog 8.7.2 compatible ZwiiCMS / ZwiiCampus
+# Blog 8.7.5 compatible ZwiiCMS / ZwiiCampus
 
 Module **Blog** autonome, préparé pour **remplacer proprement** le dossier `module/blog` de **ZwiiCMS** ou **ZwiiCampus**.
 
@@ -7,7 +7,7 @@ Cette archive corrige et stabilise la branche 8.7 afin que le **tri visiteur fon
 ## Correctifs intégrés
 
 - correction d'une **erreur de syntaxe PHP** dans `blog.php` (`elsif` → `elseif`)
-- mise à jour de version vers **8.7.2**
+- mise à jour de version vers **8.7.5**
 - conservation du mécanisme de tri dans l'URL (`/sort/...`)
 - adaptation de la vue publique pour que les boutons de tri déclenchent un **vrai tri serveur**
 - compatibilité conservée avec l'arborescence module standard de **ZwiiCMS** et **ZwiiCampus**
